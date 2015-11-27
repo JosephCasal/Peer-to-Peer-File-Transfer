@@ -2,6 +2,7 @@
 
 Connect to download and share files
 
+```
 Run instructions:
 1. open terminal
 2. cd into directory [Peer-to-Peer-File-Transfer]
@@ -17,3 +18,4 @@ Run tracker instructions:
 3. run make
 4. run ./tracker [port]
 5. [port] is the port you will accept connections for multiple clients
+```
